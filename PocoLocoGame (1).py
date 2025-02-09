@@ -1,8 +1,5 @@
 #Name:Alakhdeep Sandhu
-#Student ID-301455865
-#Email:ass71@sfu.ca
 #Date:27th November, 2024
-#ASSIGNMENT 5
 #POCO LOCO GAME
 
 
