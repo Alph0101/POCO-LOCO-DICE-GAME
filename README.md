@@ -38,3 +38,8 @@ Just copy the Python code into your preferred IDE (IDLE, Visual Studio,Jupyter e
 Want a quick game? Start with fewer chips (like 5 or 10) for a fast-paced match!
 
 Enjoy the madness of PoCo Loco! 😆🎲
+
+
+📜 License
+
+🆓 Open-source & free for educational use.
