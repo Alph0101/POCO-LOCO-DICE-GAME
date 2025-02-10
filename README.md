@@ -18,8 +18,11 @@ First player to hit 0 chips wins! 🎉
 
 🛠️ Features
 Dice with ASCII art 🎲 – See your rolls in a cool visual format!
+
 Smart AI opponents 🤖 – They take risks and play strategically.
+
 Randomized rounds 🔄 – Keeps the game fresh every time!
+
 Simple input system ⌨️ – Just type 'y' or 'n' to roll again.
 
 
