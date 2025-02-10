@@ -9,11 +9,15 @@ Loco! (1,2,3) → Gives 2 chips
 Other rolls score based on individual dice values.
 The player with the lowest score loses the round and gains chips.
 First player to hit 0 chips wins! 🎉
+
+
 🛠️ Features
 Dice with ASCII art 🎲 – See your rolls in a cool visual format!
 Smart AI opponents 🤖 – They take risks and play strategically.
 Randomized rounds 🔄 – Keeps the game fresh every time!
 Simple input system ⌨️ – Just type 'y' or 'n' to roll again.
+
+
 ▶️ How to Run
 Just copy the Python code into a file (poco_loco.py) and run:
 
@@ -22,6 +26,7 @@ Copy
 Edit
 python poco_loco.py
 Make sure Python is installed!
+
 
 🎮 Pro Tip
 Want a quick game? Start with fewer chips (like 5 or 10) for a fast-paced match!
