@@ -1,4 +1,7 @@
 # 🎲 PoCo Loco – The Dice Game
+
+
+
 🚀 How to Play
 Each player starts with the same number of chips.
 Players take turns rolling three dice (up to three times per turn).
@@ -19,14 +22,7 @@ Simple input system ⌨️ – Just type 'y' or 'n' to roll again.
 
 
 ▶️ How to Run
-Just copy the Python code into a file (poco_loco.py) and run:
-
-bash
-Copy
-Edit
-python poco_loco.py
-Make sure Python is installed!
-
+Just copy the Python code into your preferred IDE (IDLE, Visual Studio,Jupyter etc) and run:
 
 🎮 Pro Tip
 Want a quick game? Start with fewer chips (like 5 or 10) for a fast-paced match!
