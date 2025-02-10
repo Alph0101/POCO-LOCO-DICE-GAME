@@ -2,7 +2,9 @@
 
 
 
-🚀 How to Play
+🚀 How to Play-
+
+
 Each player starts with the same number of chips.
 Players take turns rolling three dice (up to three times per turn).
 Rolls are scored based on special combos:
