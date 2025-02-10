@@ -1,2 +1,2 @@
-# POCO-LOCO-DICE-GAME
+# 🎲 PoCo Loco – The Dice Game
 Designed and developed an interactive Python-based dice game featuring turn-based mechanics, custom scoring rules, and dynamic player interactions. Integrated AI opponents, customizable settings, and ASCII-based dice visualization for an engaging user experience. Utilized Python’s random and time modules for logic and pacing, showcasing problem-solving and interactive programming skills.
